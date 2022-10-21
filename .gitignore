@@ -1,0 +1,13 @@
+# Default
+.gulp
+.idea
+.vscode
+.cache
+
+package-lock.json
+
+# Node
+node_modules
+
+# Folders
+dist
